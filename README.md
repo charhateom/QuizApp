@@ -1,17 +1,17 @@
-# 🎯 RapidFireQuiz
+# RapidFireQuiz
 
 A sleek and responsive quiz web app built using **React.js** and **Tailwind CSS**, challenging users with 15 random questions under a 30-minute timer. Developed as part of the CausalFunnel Software Engineer Intern assignment.
 
 ---
 
-### 🌐 Live Demo
+### Live Demo
 
-🔗 [https://rapidfirequiz.netlify.app](https://rapidfirequiz.netlify.app)  
-📁 GitHub Repository: [https://github.com/charhateom/QuizApp](https://github.com/charhateom/QuizApp)
+ [https://rapidfirequiz.netlify.app](https://rapidfirequiz.netlify.app)  
+ GitHub Repository: [https://github.com/charhateom/QuizApp](https://github.com/charhateom/QuizApp)
 
 ---
 
-### 📌 Project Overview
+###  Project Overview
 
 **RapidFireQuiz** is a time-bound quiz platform that:
 - Collects user email before starting
@@ -24,7 +24,7 @@ A sleek and responsive quiz web app built using **React.js** and **Tailwind CSS*
 
 ---
 
-### 🧠 My Approach
+###  My Approach
 
 The app is divided into logical, reusable components:
 - `StartPage`: Email input and quiz start button
@@ -37,7 +37,7 @@ All UI styling is handled using **Tailwind CSS** utility classes for rapid and r
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
@@ -46,7 +46,7 @@ All UI styling is handled using **Tailwind CSS** utility classes for rapid and r
 
 ---
 
-### 🚀 How to Run Locally
+###  How to Run Locally
 
 ```bash
 # Clone the repository
@@ -66,7 +66,7 @@ App will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 🚀 Future Enhancements
+###  Future Enhancements
 
 * Add category and difficulty filters to personalize the quiz
 * Include animations and transitions using Tailwind's animation utilities
@@ -77,6 +77,6 @@ App will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 🧑‍💻 Built with ❤️ by [Om Charhate](https://github.com/charhateom)
+### 🧑‍💻 Built by [Om Charhate](https://github.com/charhateom)
 
 
