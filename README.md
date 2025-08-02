@@ -66,24 +66,6 @@ App will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 📌 Assumptions
-
-* The email input is for user identification only — it is not stored or validated
-* All quiz questions are multiple-choice with a single correct answer
-* Special characters (like `&quot;` or `&amp;`) from the API responses are decoded before display
-* No backend or data persistence is implemented (as per assignment scope)
-
----
-
-### ⚔️ Challenges Faced
-
-* **HTML Entity Handling:** The API returns encoded characters which needed decoding for clean readability
-* **Timer Logic:** Ensured accurate countdown without reset during re-renders
-* **Shuffling Options:** Combined `correct_answer` and `incorrect_answers`, then randomized their order efficiently
-* **Answer & Visit Tracking:** Built a robust mechanism to track question state (visited/answered) for dynamic navigation UI
-
----
-
 ### 🚀 Future Enhancements
 
 * Add category and difficulty filters to personalize the quiz
